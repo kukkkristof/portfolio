@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "GeneticForFunctions/1.0.0": {
+        "runtime": {
+          "GeneticForFunctions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeneticForFunctions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

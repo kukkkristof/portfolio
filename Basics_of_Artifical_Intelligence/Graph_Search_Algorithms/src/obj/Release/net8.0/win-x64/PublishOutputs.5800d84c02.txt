@@ -1,0 +1,5 @@
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\bin\Release\net8.0\win-x64\publish\src.exe
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\bin\Release\net8.0\win-x64\publish\src.deps.json
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\bin\Release\net8.0\win-x64\publish\src.runtimeconfig.json
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\bin\Release\net8.0\win-x64\publish\src.pdb
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\bin\Release\net8.0\win-x64\publish\src.dll

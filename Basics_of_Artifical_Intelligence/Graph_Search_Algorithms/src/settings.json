@@ -1,0 +1,13 @@
+{
+    "Tests":[ {
+        "GraphName": "GRAPH_2",
+        "StartIndex": 0,
+        "EndIndex": 7
+    },
+    {
+        "GraphName": "GRAPH_3",
+        "StartIndex":0,
+        "EndIndex": 5
+    }
+]
+}

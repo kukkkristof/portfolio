@@ -1,0 +1,15 @@
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\bin\Release\net8.0\win-x64\src.exe
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\bin\Release\net8.0\win-x64\src.deps.json
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\bin\Release\net8.0\win-x64\src.runtimeconfig.json
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\bin\Release\net8.0\win-x64\src.dll
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\bin\Release\net8.0\win-x64\src.pdb
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\obj\Release\net8.0\win-x64\src.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\obj\Release\net8.0\win-x64\src.AssemblyInfoInputs.cache
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\obj\Release\net8.0\win-x64\src.AssemblyInfo.cs
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\obj\Release\net8.0\win-x64\src.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\obj\Release\net8.0\win-x64\src.sourcelink.json
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\obj\Release\net8.0\win-x64\src.dll
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\obj\Release\net8.0\win-x64\refint\src.dll
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\obj\Release\net8.0\win-x64\src.pdb
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\obj\Release\net8.0\win-x64\src.genruntimeconfig.cache
+C:\Users\krist\Desktop\AI\beadando_mesterseges_intelligenciak_2024_1-kukkkristof\src\obj\Release\net8.0\win-x64\ref\src.dll

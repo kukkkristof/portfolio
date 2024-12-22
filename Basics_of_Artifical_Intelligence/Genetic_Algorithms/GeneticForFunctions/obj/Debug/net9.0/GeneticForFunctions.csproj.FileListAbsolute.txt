@@ -1,0 +1,15 @@
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\bin\Debug\net9.0\GeneticForFunctions.exe
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\bin\Debug\net9.0\GeneticForFunctions.deps.json
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\bin\Debug\net9.0\GeneticForFunctions.runtimeconfig.json
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\bin\Debug\net9.0\GeneticForFunctions.dll
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\bin\Debug\net9.0\GeneticForFunctions.pdb
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\obj\Debug\net9.0\GeneticForFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\obj\Debug\net9.0\GeneticForFunctions.AssemblyInfoInputs.cache
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\obj\Debug\net9.0\GeneticForFunctions.AssemblyInfo.cs
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\obj\Debug\net9.0\GeneticForFunctions.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\obj\Debug\net9.0\GeneticForFunctions.sourcelink.json
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\obj\Debug\net9.0\GeneticForFunctions.dll
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\obj\Debug\net9.0\refint\GeneticForFunctions.dll
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\obj\Debug\net9.0\GeneticForFunctions.pdb
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\obj\Debug\net9.0\GeneticForFunctions.genruntimeconfig.cache
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\GeneticForFunctions\obj\Debug\net9.0\ref\GeneticForFunctions.dll

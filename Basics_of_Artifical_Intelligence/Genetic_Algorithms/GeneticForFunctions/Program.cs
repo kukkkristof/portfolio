@@ -1,0 +1,3 @@
+﻿using GeneticForFunctions;
+
+Runner.DebugRun();

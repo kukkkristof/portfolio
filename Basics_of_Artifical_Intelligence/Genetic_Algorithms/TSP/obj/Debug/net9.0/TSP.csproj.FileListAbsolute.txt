@@ -1,0 +1,15 @@
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\bin\Debug\net9.0\TSP.exe
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\bin\Debug\net9.0\TSP.deps.json
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\bin\Debug\net9.0\TSP.runtimeconfig.json
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\bin\Debug\net9.0\TSP.dll
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\bin\Debug\net9.0\TSP.pdb
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\obj\Debug\net9.0\TSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\obj\Debug\net9.0\TSP.AssemblyInfoInputs.cache
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\obj\Debug\net9.0\TSP.AssemblyInfo.cs
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\obj\Debug\net9.0\TSP.csproj.CoreCompileInputs.cache
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\obj\Debug\net9.0\TSP.sourcelink.json
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\obj\Debug\net9.0\TSP.dll
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\obj\Debug\net9.0\refint\TSP.dll
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\obj\Debug\net9.0\TSP.pdb
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\obj\Debug\net9.0\TSP.genruntimeconfig.cache
+C:\Users\krist\Desktop\University\AI\beadando_mesterseges_intelligenciak_2024_2-kukkkristof\TSP\obj\Debug\net9.0\ref\TSP.dll
