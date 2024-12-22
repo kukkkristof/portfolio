@@ -15,5 +15,5 @@ There are sone inconsistencies with the common language usage, that is because o
 I am most comfortable with English, however at one assignment (Basics of Artifical Intelligence - Genetic Algorithms) hungraian language was required. 
 
 <sub><sup>
-Kristóf Kukk | <b>P2MZHY</b> @ University of Miskolc, 2024
+Kristóf Kukk | <b>P2MZHY</b>
 </sup></sub>
