@@ -1,5 +1,6 @@
 # Portfolio
 
+
 ## Introduction
 Welcome to my portfolio, here you can find my work, and see what I am capable of
 
@@ -8,6 +9,7 @@ Currently here only my university work can be found, all of them got a grade 5.
 The projects are written in C, C#12 and C#13
 
 ## Note:
+Work in progress! Currently working on a server-client bidirectional communication system for games.
 This portfolio will keep expanding, so if my work does not currently seem to fit your needs,
 make sure to check back later maybe then I can change your mind!
 
