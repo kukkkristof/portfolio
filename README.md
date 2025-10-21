@@ -14,7 +14,7 @@ This portfolio will keep expanding, so if my work does not currently seem to fit
 make sure to check back later maybe then I can change your mind!
 
 There are sone inconsistencies with the common language usage, that is because of the different needs of different professors.
-I am most comfortable with English, however at one assignment (Basics of Artifical Intelligence - Genetic Algorithms) hungraian language was required. 
+I am most comfortable with English, however at one assignment (Basics of Artifical Intelligence - Genetic Algorithms) hungarian language was required. 
 
 <sub><sup>
 Kristóf Kukk | <b>P2MZHY</b>
